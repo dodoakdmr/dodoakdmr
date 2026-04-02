@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Doğukan 👋
 
-<!--
-**dodoakdmr/dodoakdmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Electrical & Electronics Engineering student  
+💻 Full-stack developer (Next.js, Node.js)  
+🔥 Building SaaS, CMS & ERP systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Active Projects
+
+- 🔵 [Tolsion CMS](https://github.com/dodoakdmr/tolsion_cms)
+- 🟢 Tetsi → Marketplace analytics SaaS  
+- 🟡 ERP System → Inventory & company management  
+
+---
+
+## 🛠️ Tech Stack
+
+- Next.js, React, Tailwind  
+- Node.js, Express, Prisma  
+- PostgreSQL, SQLite  
+- Docker, Nginx  
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=dodoakdmr&show_icons=true)
